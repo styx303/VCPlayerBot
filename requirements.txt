@@ -3,7 +3,7 @@ py-tgcalls==0.8.2
 parse-torrent-name
 tgcrypto
 git+https://github.com/newreposs/onem2
-youtube-search-python
+git+https://github.com/newreposs/onem8
 httpx==0.23.0
 youtube-search
 heroku3
